@@ -1,0 +1,23 @@
+# Бинарные файлы 1C
+*.cf
+*.cfu
+*.dt
+
+# Родительские конфигурации
+src/Configuration/ParentConfigurations.bin
+
+# Локальные настройки EDT/1C
+*.settings/
+*.metadata/
+*.launch
+*.log
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*~
+
+# Информационные базы
+*.1cd
+1cv8.ib
